@@ -1,6 +1,6 @@
 // chcrAt()- return the character at a specified index in a string.
 package String;
-public class length_function {
+public class characterCounting {
     public static void main(String[] args) {
         String name ="ramayan";
         for(int i=0; i<=name.length();i++)

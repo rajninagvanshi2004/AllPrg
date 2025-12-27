@@ -2,7 +2,7 @@ package String;
 
 import java.util.Scanner;
 
-public class Second_program {
+public class concatination {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("enter the name: ");
@@ -19,7 +19,6 @@ public class Second_program {
         System.out.println( LastName);
         String  fullname = firstName + " " + LastName;
         System.out.println(fullname);
-
 
     }
 }

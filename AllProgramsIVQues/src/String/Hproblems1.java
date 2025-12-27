@@ -14,7 +14,7 @@ public class problems {
 }
 */
 //2ed way of replace the string
-public class problems {
+public class Hproblems1 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         String size=sc.next();
